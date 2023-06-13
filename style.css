@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  background: #1199aa;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+#rgbSpan {
+  font-size: 4rem;
+}
+
+.color-btns {
+  text-align: center;
+  color: #1199aa;
+  background: #fff;
+  line-height: 28px;
+}
+
+.status {
+  padding: 0 30px;
+}
+
+button {
+  background: none;
+  border: none;
+  text-transform: uppercase;
+  color: #1199aa;
+  cursor: pointer;
+}
+
+body {
+  background: #22eeaa;
+}
+
+.boxes {
+}
+
+.box {
+  padding-bottom: 30%;
+  width: 30%;
+  background: #fff;
+  border: 1 solid #fff;
+  margin: 1.66%;
+  border-radius: 12px;
+  float: right;
+  cursor: pointer;
+}
